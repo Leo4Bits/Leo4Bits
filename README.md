@@ -2,7 +2,7 @@
 <!--# Hi 👋, I'm Tran Nhat Nam -->
 <h1 align="center">Hi 👋, I'm Tran Nhat Nam</h3>
 <!-- ### I have a dream to be an Embedded Software Engineer. This is a place where stores my development journey. And I'm happy to share what i have done, each star from u for my project is my motivation.-->
-<h3 align="left">I have a dream to be an Embedded Engineer. This is a place where stores my development journey. And I'm happy to share what i have done, each star from u for my project is my motivation.</h3>
+<h3 align="left">I have a dream to be an Embedded Software Engineer. This is a place where stores my development journey. And I'm happy to share what i have done, each star from u for my project is my motivation.</h3>
 <h3 align="left">🔭 I'm currently studying and researching as Sophomore at PTIT (Posts and Telecommunications Institute of Technology)</h3>
 <!--### 🔭 I'm currently studying and researching as Sophomore at PTIT (Posts and Telecommunications Institute of Technology) -->
 
